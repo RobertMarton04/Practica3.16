@@ -1,0 +1,17 @@
+
+h1{
+    color: blue;
+    text-decoration: underline;
+}
+div{
+    border: 1px solid;
+    border-color: blue;
+    display: inline-block;
+    width: 30%;
+}
+a{
+    color: black;
+}
+section{
+    
+}
